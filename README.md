@@ -14,7 +14,7 @@ In this repository, you will find categories for various product areas. Feel fre
 | :copilot: [Copilot Conversations](https://github.com/orgs/community/discussions/categories/copilot-conversations) 	| [GitHub Copilot](https://copilot.github.com/) 	|
 | 🤖 [Code Security](https://github.com/orgs/community/discussions/categories/code-security) 	| [GitHub Code Security](https://github.com/features/security) 	|
 | 🗣️ [Discussions](https://github.com/orgs/community/discussions/categories/discussions)  	| [GitHub Discussions](https://docs.github.com/en/discussions) 	|
-| 🌐 [Feed](https://github.com/orgs/community/discussions/categories/feed)  	| [GitHub Feed](https://github.blog/2022-03-22-improving-your-github-feed/) 	|
+|  [Feed](https://github.com/orgs/community/discussions/categories/feed)  	| [GitHub Feed](https://github.blog/2022-03-22-improving-your-github-feed/) 	|
 | 🎒 [GitHub Education](https://github.com/orgs/community/discussions/categories/github-education)  	| [GitHub Education](https://education.github.com/) 	|
 | ⭐ [Lists](https://github.com/orgs/community/discussions/categories/lists) 	| [GitHub Lists](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars#organizing-starred-repositories-with-lists) (Public Beta) 	|
 | 📱 [Mobile](https://github.com/orgs/community/discussions/categories/mobile) 	| [GitHub Mobile](https://github.com/mobile) 	|
